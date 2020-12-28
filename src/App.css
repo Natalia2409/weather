@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  font-size: 40px;
+}
+
+.reader {
+  display: flex;
+  text-align: center;
+}
+
+.inside {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+.temp {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  font-stretch: expanded;
+  text-transform: uppercase;
+  font-style: italic;
+}
